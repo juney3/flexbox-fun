@@ -9,7 +9,7 @@
 ***
 
 <a name="introduction"></a>
-## Introduction: Flexbox (5 mins)
+## Introduction: Flexbox 
 From [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes): "The CSS3 Flexible Box, or flexbox, is a layout mode providing for the arrangement of elements on a page such that the elements behave predictably when the page layout must accommodate different screen sizes and different display devices."
 
 
