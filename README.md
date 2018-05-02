@@ -1,13 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Flexbox (60 mins)
-
-| Timing | Type | Topic |
-| --- | --- | --- |
-| 5 mins | [Introduction](#introduction) | Flexbox |
-| 5 mins | [Refresher](#display) | Display |
-| 5 mins | [Refresher](#floats) | Floats |
-| 20 mins | [Demo/Codealong](#demo-flexbox) | Flexbox Demo |
-| 25 mins | [Independent Practice](#ind-practice) | Flex Your Code Muscles |
-
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Flexbox 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 
@@ -25,9 +16,8 @@ From [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Lay
 ***
 
 <a name="display"></a>
-## Refresher: How Display Affects Spacing & Layout (5 mins)
+## Refresher: How Display Affects Spacing & Layout 
 
-> Instructor note: Demo for students. Some example code can be found [here](examples/display_demo).
 
 We just learned that each HTML element gets its own box to live in. Cool, right?
 
@@ -112,7 +102,7 @@ We would end up with something like this:
 ***
 
 <a name="floats"></a>
-## Refresher: Floats (5 mins)
+## Refresher: Floats
 You've likely used floats in the past to build column layouts, but flexbox is now considered best practice for grid layouts. However, sometimes our layout goals are simpler; rather than pinpointing the position of an element, we may just want to move it to the left or right side of a page. We accomplish that using `float`.
 
 A basic example you'll encounter in most tutorials is the "text wrap," or surrounding an image with text:
@@ -245,7 +235,7 @@ Ta-da!
 
 
 <a name="demo-flexbox"></a>
-## Demo / Codealong: Flexbox Demo (20 mins)
+## Demo / Codealong: Flexbox Demo
 We'll be using flexbox to build our column-based grid layouts. In addition to creating an incredible structure on our page, flexbox solves a lot of layout issues that `float` either causes or cannot solve (or both!).
 
 ### Problem 1: Vertical Alignment
