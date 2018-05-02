@@ -1,16 +1,48 @@
 /*----------------------------------------------
     H E L P E R S
 ------------------------------------------------*/
-/* * {
+ * {
 	box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
 
 .clearfix:after {
   content: "";
   display: table;
   clear: both;
-} */
+}
 
 /*----------------------------------------------
     S T Y L E S
 ------------------------------------------------*/
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+  background-color: #969A97;
+  padding: 60px;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #D6D1CE;
+  padding: 25px 10px;
+  margin-bottom: 10px;
+}
+
+article {
+  width: 30%;
+  background-color: #E5ECE9;
+  padding: 15px;
+}
+
+footer {
+  background-color: #C6447B;
+  padding: 1em;
+  display: block;
+  margin-top: 10px;
+}
